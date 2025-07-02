@@ -4,6 +4,12 @@
 
 ↑这也是用ClientWorker搭建的！
 
+CDN acceleration and security protection for this project are sponsored by Tencent EdgeOne.
+
+本项目的 CDN 加速和安全保护由腾讯 EdgeOne 赞助
+
+![Best Asian CDN, Edge, and Secure Solutions - Tencent EdgeOne](https://edgeone.ai/media/34fe3a45-492d-4ea4-ae5d-ea1087ca7b4b.png)
+
 ## 它能干什么
 
 - 绕备，在域名不变动的情况下，其余用户所有请求均可以定向到你的其他服务器或者cdn，而首屏域名无需ICP备案。
